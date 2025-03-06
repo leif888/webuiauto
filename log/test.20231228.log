@@ -1,0 +1,47 @@
+ERROR - 2023-12-28 14:37:13,768 - connectMysql.py:26 -[connectMysql:__init__] - 连接数据库失败，(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] 由于目标计算机积极拒绝，无法连接。)")
+INFO - 2023-12-28 14:37:13,769 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-28 14:37:17,872 - basePage.py:68 -[basePage:open_url] - 打开页面：https://passport.csdn.net/login
+INFO - 2023-12-28 14:37:27,894 - basePage.py:144 -[basePage:location_element] - 找到元素：xpath = //*[@id="csdn-toolbar"]/div/div/div[3]/div/div[6]/a
+INFO - 2023-12-28 14:37:28,175 - basePage.py:302 -[basePage:mouse_hover_actions] - 鼠标悬停
+INFO - 2023-12-28 14:37:31,209 - basePage.py:144 -[basePage:location_element] - 找到元素：xpath = //*[@id="csdn-toolbar-write"]/div/ul/li[1]/a/i
+INFO - 2023-12-28 14:37:31,361 - basePage.py:194 -[basePage:click] - 元素被点击：('xpath', '//*[@id="csdn-toolbar-write"]/div/ul/li[1]/a/i')
+INFO - 2023-12-28 14:37:31,390 - basePage.py:110 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-28 14:37:34,586 - basePage.py:175 -[basePage:visibility_of_element_located] - 找到元素：xpath = //*[@id="reset_inner"]/div/div[6]/div[4]/div[1]
+INFO - 2023-12-28 14:37:34,610 - basePage.py:175 -[basePage:visibility_of_element_located] - 找到元素：xpath = //*[@id="reset_inner"]/div/div[6]/div[4]/div[1]
+INFO - 2023-12-28 14:37:36,958 - basePage.py:175 -[basePage:visibility_of_element_located] - 找到元素：xpath = /html/body/div[1]/div[1]/div[2]/div/div[1]/nav/div[2]/div[1]/div[30]/button
+INFO - 2023-12-28 14:37:37,376 - basePage.py:110 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+ERROR - 2023-12-28 14:37:51,937 - basePage.py:147 -[basePage:location_element] - 未找到元素：class name = el-textarea__inner
+INFO - 2023-12-28 14:37:55,317 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-28 14:37:55,318 - conftest.py:16 -[conftest:data_cleaning] - 正在清理测试数据...
+ERROR - 2023-12-28 14:37:55,318 - connectMysql.py:65 -[connectMysql:delete] - 删除数据库数据出现异常，'ConnectMysql' object has no attribute 'cursor'
+ERROR - 2023-12-28 14:48:22,727 - connectMysql.py:26 -[connectMysql:__init__] - 连接数据库失败，(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] 由于目标计算机积极拒绝，无法连接。)")
+INFO - 2023-12-28 14:48:22,728 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-28 14:48:26,591 - basePage.py:68 -[basePage:open_url] - 打开页面：https://passport.csdn.net/login
+INFO - 2023-12-28 14:48:36,608 - basePage.py:161 -[basePage:location_element] - 找到元素：xpath = //*[@id="csdn-toolbar"]/div/div/div[3]/div/div[6]/a
+INFO - 2023-12-28 14:48:36,901 - basePage.py:319 -[basePage:mouse_hover_actions] - 鼠标悬停
+INFO - 2023-12-28 14:48:39,914 - basePage.py:161 -[basePage:location_element] - 找到元素：xpath = //*[@id="csdn-toolbar-write"]/div/ul/li[1]/a/i
+INFO - 2023-12-28 14:48:39,986 - basePage.py:211 -[basePage:click] - 元素被点击：('xpath', '//*[@id="csdn-toolbar-write"]/div/ul/li[1]/a/i')
+INFO - 2023-12-28 14:48:40,004 - basePage.py:129 -[basePage:switch_to_tab_by_index] - 成功切换到第2个标签页
+INFO - 2023-12-28 14:48:43,257 - basePage.py:192 -[basePage:visibility_of_element_located] - 找到元素：xpath = //*[@id="reset_inner"]/div/div[6]/div[4]/div[1]
+INFO - 2023-12-28 14:48:43,281 - basePage.py:192 -[basePage:visibility_of_element_located] - 找到元素：xpath = //*[@id="reset_inner"]/div/div[6]/div[4]/div[1]
+INFO - 2023-12-28 14:48:45,632 - basePage.py:192 -[basePage:visibility_of_element_located] - 找到元素：xpath = /html/body/div[1]/div[1]/div[2]/div/div[1]/nav/div[2]/div[1]/div[30]/button
+INFO - 2023-12-28 14:48:45,999 - basePage.py:129 -[basePage:switch_to_tab_by_index] - 成功切换到第3个标签页
+INFO - 2023-12-28 14:48:50,073 - basePage.py:161 -[basePage:location_element] - 找到元素：class name = el-textarea__inner
+INFO - 2023-12-28 14:48:50,182 - basePage.py:351 -[basePage:clear] - 清空文本
+INFO - 2023-12-28 14:48:50,334 - basePage.py:161 -[basePage:location_element] - 找到元素：class name = el-textarea__inner
+INFO - 2023-12-28 14:48:51,333 - basePage.py:250 -[basePage:send_keys_actions] - 元素被输入内容：('class name', 'el-textarea__inner')，输入的内容为：LabVIEW开发LED驱动电源测试系统
+INFO - 2023-12-28 14:48:53,353 - basePage.py:161 -[basePage:location_element] - 找到元素：css selector = body
+INFO - 2023-12-28 14:48:53,787 - basePage.py:250 -[basePage:send_keys_actions] - 元素被输入内容：('css selector', 'body')，输入的内容为：电源测试系统
+INFO - 2023-12-28 14:49:01,711 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-28 14:49:01,712 - conftest.py:16 -[conftest:data_cleaning] - 正在清理测试数据...
+ERROR - 2023-12-28 14:49:01,714 - connectMysql.py:65 -[connectMysql:delete] - 删除数据库数据出现异常，'ConnectMysql' object has no attribute 'cursor'
+ERROR - 2023-12-28 20:43:56,052 - connectMysql.py:26 -[connectMysql:__init__] - 连接数据库失败，(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] 由于目标计算机积极拒绝，无法连接。)")
+INFO - 2023-12-28 20:43:56,053 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-28 20:44:05,009 - basePage.py:68 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-28 20:44:05,025 - basePage.py:161 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-28 20:44:05,052 - basePage.py:235 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-28 20:44:07,280 - basePage.py:161 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-28 20:44:07,294 - basePage.py:79 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-28 20:44:09,725 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-28 20:44:09,727 - conftest.py:16 -[conftest:data_cleaning] - 正在清理测试数据...
+ERROR - 2023-12-28 20:44:09,728 - connectMysql.py:65 -[connectMysql:delete] - 删除数据库数据出现异常，'ConnectMysql' object has no attribute 'cursor'

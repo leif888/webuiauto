@@ -1,0 +1,141 @@
+INFO - 2023-12-24 10:23:35,765 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:24:15,593 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:24:23,591 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:24:23,655 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:24:23,682 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:24:23,704 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:24:23,842 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:24:23,850 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:24:23,956 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:24:23,965 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //button[@type="submit"]
+INFO - 2023-12-24 10:24:23,975 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//button[@type="submit"]')
+INFO - 2023-12-24 10:24:26,154 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:24:52,949 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:24:55,660 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:24:56,005 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:24:56,117 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:24:56,147 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:24:56,293 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:24:56,301 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:24:56,401 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:24:56,409 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //button[@type="submit"]
+INFO - 2023-12-24 10:24:56,420 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//button[@type="submit"]')
+INFO - 2023-12-24 10:25:04,943 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:31:01,481 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:31:04,145 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:31:04,465 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:31:04,572 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:31:04,602 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:31:04,718 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:31:04,727 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:31:04,823 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:31:04,863 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //button[@type="submit"]
+INFO - 2023-12-24 10:31:04,874 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//button[@type="submit"]')
+ERROR - 2023-12-24 10:31:14,903 - basePage.py:280 -[basePage:assert_is_element_present] - 元素未找到，Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title="写文章"]"}
+  (Session info: chrome=104.0.5112.102); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D778B3+2193587]
+	Ordinal0 [0x00D10681+1771137]
+	Ordinal0 [0x00C241A8+803240]
+	Ordinal0 [0x00C524A0+992416]
+	Ordinal0 [0x00C5273B+993083]
+	Ordinal0 [0x00C7F7C2+1177538]
+	Ordinal0 [0x00C6D7F4+1103860]
+	Ordinal0 [0x00C7DAE2+1170146]
+	Ordinal0 [0x00C6D5C6+1103302]
+	Ordinal0 [0x00C477E0+948192]
+	Ordinal0 [0x00C486E6+952038]
+	GetHandleVerifier [0x01020CB2+2738370]
+	GetHandleVerifier [0x010121B8+2678216]
+	GetHandleVerifier [0x00E017AA+512954]
+	GetHandleVerifier [0x00E00856+509030]
+	Ordinal0 [0x00D1743B+1799227]
+	Ordinal0 [0x00D1BB68+1817448]
+	Ordinal0 [0x00D1BC55+1817685]
+	Ordinal0 [0x00D25230+1856048]
+	BaseThreadInitThunk [0x773AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778C7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x778C7C3E+238]
+
+INFO - 2023-12-24 10:31:17,410 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:31:51,289 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:31:53,910 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:31:54,239 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:31:54,361 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:31:54,388 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:31:54,501 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:31:54,538 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:31:54,636 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:31:54,644 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //button[@type="submit"]
+INFO - 2023-12-24 10:31:54,654 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//button[@type="submit"]')
+INFO - 2023-12-24 10:31:57,098 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:45:35,363 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:45:38,041 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:45:38,366 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:45:38,461 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:45:38,479 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:45:38,591 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:45:38,631 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:45:38,745 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:45:38,789 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //button[@type="submit"]
+INFO - 2023-12-24 10:45:38,807 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//button[@type="submit"]')
+INFO - 2023-12-24 10:45:44,222 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:46:06,299 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:46:09,646 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:46:09,656 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:46:09,677 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:46:09,696 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:46:09,802 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:46:09,813 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:46:09,921 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:46:10,003 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[@type="submit"]
+INFO - 2023-12-24 10:46:10,089 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[@type="submit"]')
+INFO - 2023-12-24 10:46:15,537 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:47:39,962 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:47:42,836 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:47:43,169 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:47:43,284 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:47:43,315 - basePage.py:104 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:47:43,435 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:47:43,443 - basePage.py:104 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:47:43,542 - basePage.py:154 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:47:43,555 - basePage.py:104 -[basePage:location_element] - 找到元素：xpath = //*[text()="登录"]
+INFO - 2023-12-24 10:47:43,565 - basePage.py:139 -[basePage:click] - 元素被点击：('xpath', '//*[text()="登录"]')
+INFO - 2023-12-24 10:47:49,018 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:51:28,068 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:51:30,965 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:51:31,271 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:51:31,310 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:51:31,370 - basePage.py:108 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:51:31,476 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:51:31,485 - basePage.py:108 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:51:31,599 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:51:31,639 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="登录"]
+INFO - 2023-12-24 10:51:31,651 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="登录"]')
+ERROR - 2023-12-24 10:51:54,765 - basePage.py:80 -[basePage:iframe] - 切换iframe框架失败！
+INFO - 2023-12-24 10:51:57,193 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 10:56:08,807 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 10:56:12,043 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 10:56:12,059 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 10:56:12,080 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 10:56:12,099 - basePage.py:108 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 10:56:12,201 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 10:56:12,211 - basePage.py:108 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 10:56:12,321 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 10:56:12,402 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="登录"]
+INFO - 2023-12-24 10:56:12,483 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="登录"]')
+ERROR - 2023-12-24 10:56:26,018 - basePage.py:111 -[basePage:location_element] - 未找到元素：class name = yidun_bg-img
+INFO - 2023-12-24 10:56:28,467 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-24 13:19:08,720 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-24 13:19:11,924 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-24 13:19:12,321 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-24 13:19:12,402 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-24 13:19:12,419 - basePage.py:108 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-24 13:19:12,534 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-24 13:19:12,543 - basePage.py:108 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-24 13:19:12,642 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-24 13:19:12,683 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="登录"]
+INFO - 2023-12-24 13:19:12,694 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="登录"]')
+ERROR - 2023-12-24 13:19:26,261 - basePage.py:111 -[basePage:location_element] - 未找到元素：class name = yidun_bg-img
+INFO - 2023-12-24 13:19:28,746 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------

@@ -1,0 +1,137 @@
+INFO - 2023-12-15 11:06:57,344 - basePage.py:89 -[basePage:location_element] - 找到元素：xpath=//*[@id="j_idt88:j_idt93"]/span[2]
+INFO - 2023-12-15 11:17:19,324 - basePage.py:90 -[basePage:location_element] - 找到元素：xpath=//*[@id="j_idt88:j_idt93"]/span[2]
+INFO - 2023-12-15 11:17:19,334 - basePage.py:109 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:j_idt93"]/span[2]')
+INFO - 2023-12-15 11:24:04,146 - basePage.py:90 -[basePage:location_element] - 找到元素：id=j_idt88:name
+INFO - 2023-12-15 11:24:04,239 - basePage.py:124 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:name')，输入的内容为：输入内容定位
+INFO - 2023-12-15 11:34:35,777 - basePage.py:105 -[basePage:location_elements] - 找到元素：id=j_idt88_content
+INFO - 2023-12-15 11:35:24,131 - basePage.py:105 -[basePage:location_elements] - 找到元素：id = j_idt88_content
+INFO - 2023-12-15 11:37:20,361 - basePage.py:105 -[basePage:location_elements] - 找到元素：id = j_idt88_content
+INFO - 2023-12-15 11:38:38,495 - basePage.py:105 -[basePage:location_elements] - 找到元素：xpath = //*[@id="j_idt88_content"]
+INFO - 2023-12-15 11:38:58,420 - basePage.py:105 -[basePage:location_elements] - 找到元素：xpath = //*[@id="j_idt88_content"]
+INFO - 2023-12-15 11:41:51,817 - basePage.py:106 -[basePage:location_elements] - 找到元素：xpath = //*[@id="j_idt88_content"]
+INFO - 2023-12-15 11:42:07,708 - basePage.py:106 -[basePage:location_elements] - 找到元素：xpath = //*[@id="j_idt88_content"]
+INFO - 2023-12-15 11:49:34,164 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]
+INFO - 2023-12-15 11:51:04,128 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]/div
+INFO - 2023-12-15 11:51:29,394 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]/div
+INFO - 2023-12-15 11:51:51,258 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]/div
+INFO - 2023-12-15 11:54:02,188 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]/div
+INFO - 2023-12-15 12:03:54,791 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]/div
+INFO - 2023-12-15 12:04:59,942 - basePage.py:106 -[basePage:location_elements] - 找到元素列表：xpath = //*[@id="j_idt88_content"]/div
+INFO - 2023-12-15 12:16:18,896 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:16:18,950 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行
+INFO - 2023-12-15 12:16:18,956 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:16:18,975 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:16:18,998 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行
+INFO - 2023-12-15 12:17:19,054 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:17:19,100 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行
+INFO - 2023-12-15 12:17:19,118 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:17:19,137 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行
+INFO - 2023-12-15 12:25:24,477 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:25:24,546 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:25:24,572 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:25:24,610 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:26:03,070 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:26:03,149 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:26:03,166 - basePage.py:154 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:26:03,182 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:26:03,225 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:30:21,450 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:30:21,496 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:30:21,508 - basePage.py:154 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:30:21,518 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:30:21,553 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:30:45,304 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:30:45,354 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:30:45,361 - basePage.py:154 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:30:45,371 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:30:45,396 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:30:45,402 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:30:45,685 - basePage.py:168 -[basePage:right_click] - 执行右键点击操作
+INFO - 2023-12-15 12:34:13,766 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:34:13,844 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:34:13,861 - basePage.py:154 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:34:13,875 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:34:13,909 - basePage.py:142 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:34:13,918 - basePage.py:92 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:34:14,209 - basePage.py:168 -[basePage:right_click] - 执行右键点击操作
+INFO - 2023-12-15 12:47:22,542 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:47:22,593 - basePage.py:143 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:47:22,600 - basePage.py:155 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:47:22,609 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:47:22,634 - basePage.py:143 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:47:22,640 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:47:22,921 - basePage.py:169 -[basePage:right_click] - 执行右键点击操作
+INFO - 2023-12-15 12:49:35,886 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:49:35,959 - basePage.py:143 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:49:35,976 - basePage.py:155 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:49:35,988 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:49:36,020 - basePage.py:143 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:49:36,034 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:49:36,328 - basePage.py:169 -[basePage:right_click] - 执行右键点击操作
+INFO - 2023-12-15 12:53:31,269 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:53:31,356 - basePage.py:143 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第一行内容
+INFO - 2023-12-15 12:53:31,369 - basePage.py:155 -[basePage:enter] - 按下回车键
+INFO - 2023-12-15 12:53:31,389 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:53:31,427 - basePage.py:143 -[basePage:send_keys] - 元素被输入内容：('id', 'j_idt88:j_idt101')，输入的内容为：第二行内容
+INFO - 2023-12-15 12:53:31,435 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:53:31,721 - basePage.py:169 -[basePage:right_click] - 执行右键点击操作
+INFO - 2023-12-15 12:53:31,872 - basePage.py:93 -[basePage:location_element] - 找到元素：id = j_idt88:j_idt101
+INFO - 2023-12-15 12:53:31,894 - basePage.py:209 -[basePage:clear] - 清空文本
+INFO - 2023-12-15 14:01:37,688 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:03:34,001 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:04:59,146 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:11:52,199 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:13:29,433 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:13:56,881 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:16:00,309 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:19,795 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:20,029 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:20,258 - basePage.py:238 -[basePage:ocr_captcha] - 识别到的验证码为：Ty
+
+
+INFO - 2023-12-15 14:18:34,529 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:34,754 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:34,966 - basePage.py:238 -[basePage:ocr_captcha] - 识别到的验证码为：SCIM.-
+
+
+INFO - 2023-12-15 14:18:45,270 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:45,501 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:18:45,738 - basePage.py:238 -[basePage:ocr_captcha] - 识别到的验证码为：SHKF.-
+
+
+INFO - 2023-12-15 14:19:58,335 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:19:58,743 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：fies!)
+
+
+INFO - 2023-12-15 14:20:10,432 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:20:10,825 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：¥7D5
+
+
+INFO - 2023-12-15 14:20:20,844 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:20:21,242 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：>
+
+
+INFO - 2023-12-15 14:20:32,480 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:20:32,852 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：
+INFO - 2023-12-15 14:20:49,475 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:20:49,853 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：
+INFO - 2023-12-15 14:20:59,883 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:21:00,284 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：WLOK
+
+
+INFO - 2023-12-15 14:23:01,330 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:23:01,722 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：xD
+
+
+INFO - 2023-12-15 14:23:11,806 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:23:12,190 - basePage.py:240 -[basePage:ocr_captcha] - 识别到的验证码为：R3C6.
+
+
+INFO - 2023-12-15 14:40:41,218 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:40:41,736 - basePage.py:233 -[basePage:ocr_captcha] - 识别到的验证码为：GX7J3
+
+
+INFO - 2023-12-15 14:41:24,172 - basePage.py:95 -[basePage:location_element] - 找到元素：xpath = /html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img
+INFO - 2023-12-15 14:41:24,720 - basePage.py:233 -[basePage:ocr_captcha] - 识别到的验证码为：WKET
+
+

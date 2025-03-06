@@ -1,0 +1,1285 @@
+INFO - 2023-12-26 10:13:37,949 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:13:37,949 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:13:47,115 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:13:47,131 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 10:13:47,166 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 10:13:49,178 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 10:13:49,190 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 10:13:51,425 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:13:55,467 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:14:00,136 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:14:00,152 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:14:00,181 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:14:03,189 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:14:03,206 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:14:03,275 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:14:03,284 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:14:03,344 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:14:07,530 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:14:07,531 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:14:07,543 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:28:13,320 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:28:13,321 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:28:18,665 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:28:18,677 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:28:22,653 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:28:22,655 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:28:22,656 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:29:37,630 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:29:37,631 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:29:41,733 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:29:41,743 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:29:45,554 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:29:45,556 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:29:45,556 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:35:34,979 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:35:34,979 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:35:39,653 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:35:39,667 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 10:35:39,688 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 10:35:41,700 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 10:35:41,726 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 10:35:43,937 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:35:48,027 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:35:52,188 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:35:52,210 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:35:52,252 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:35:55,262 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:35:55,273 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:35:55,344 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:35:55,356 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:35:55,407 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:35:59,668 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:35:59,670 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:35:59,671 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:36:46,061 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:36:46,062 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:36:50,021 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:36:50,033 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 10:36:50,069 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 10:36:52,084 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 10:36:52,095 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 10:36:54,377 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:36:58,443 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:37:02,749 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:37:02,762 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:37:02,797 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:37:05,805 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:37:05,815 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:37:05,895 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:37:05,904 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:37:05,955 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:37:10,232 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:37:10,233 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:37:10,233 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:42:39,983 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:42:39,984 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:42:43,975 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:42:46,645 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:42:46,648 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:42:50,455 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:42:50,467 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:42:50,499 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:42:53,521 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:42:53,531 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:42:53,611 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:42:53,621 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:42:53,672 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:42:57,893 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:42:57,894 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:42:57,895 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:47:53,579 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:47:53,579 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:47:57,881 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:48:00,569 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:48:00,574 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:48:04,483 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:48:04,495 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:48:04,527 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:48:07,533 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:48:07,542 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:48:07,619 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:48:07,628 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:48:07,678 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:48:11,946 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:48:11,947 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:48:11,948 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:51:50,756 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:51:50,757 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:51:54,897 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:51:55,080 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 10:51:55,101 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 10:51:57,112 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 10:51:57,128 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 10:51:59,393 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:52:03,475 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:52:07,361 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:52:07,378 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:52:07,428 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:52:10,438 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:52:10,448 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:52:10,537 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:52:10,546 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:52:10,596 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:52:14,839 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:52:14,843 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:52:14,845 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:53:10,137 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:53:10,138 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:53:14,164 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:53:14,179 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 10:53:14,199 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 10:53:16,374 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 10:53:16,388 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 10:53:18,628 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:53:22,730 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:53:26,979 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:53:26,992 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:53:27,032 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:53:30,040 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:53:30,051 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:53:30,121 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:53:30,129 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:53:30,179 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:53:34,460 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:53:34,461 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:53:34,462 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 10:58:01,159 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 10:58:01,160 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:58:05,352 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 10:58:05,366 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 10:58:05,387 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 10:58:07,560 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 10:58:07,571 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 10:58:09,843 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:58:13,942 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:58:17,723 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 10:58:17,734 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 10:58:17,776 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 10:58:20,789 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 10:58:20,799 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 10:58:20,879 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 10:58:20,890 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 10:58:20,941 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 10:58:25,196 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:58:29,303 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:58:31,250 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 10:58:31,263 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 10:58:31,336 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 10:58:31,348 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 10:58:31,400 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 10:58:31,409 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 10:58:31,510 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 10:58:33,720 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:58:37,797 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:58:39,747 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 10:58:39,763 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 10:58:39,849 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-26 10:58:39,859 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 10:58:39,907 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 10:58:39,916 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 10:58:40,000 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 10:58:42,224 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:58:46,318 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 10:58:48,206 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 10:58:48,221 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 10:58:48,302 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 10:58:48,313 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 10:58:48,366 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-26 10:58:48,376 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 10:58:48,463 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 10:58:50,666 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 10:58:50,669 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 10:58:50,670 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:04:32,036 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:04:32,036 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:04:36,660 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:04:36,673 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:04:41,240 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:04:41,241 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:04:41,242 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:05:38,672 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:05:38,673 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:05:43,491 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 11:05:43,516 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 11:05:43,556 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 11:05:45,570 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 11:05:45,590 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 11:05:48,046 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:05:52,139 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:05:56,671 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 11:05:56,688 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 11:05:56,729 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 11:05:59,739 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 11:05:59,750 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 11:05:59,854 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 11:05:59,880 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 11:05:59,983 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 11:06:04,414 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:06:04,415 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:06:04,417 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:08:17,227 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:08:17,228 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:08:22,580 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 11:08:22,598 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 11:08:22,640 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 11:08:25,559 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:08:25,563 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:08:31,126 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 11:08:31,152 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 11:08:31,201 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 11:08:34,269 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 11:08:34,303 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 11:08:34,424 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 11:08:34,454 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 11:08:34,602 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 11:08:39,010 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:08:39,012 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:08:39,012 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:11:06,119 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:11:06,121 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:11:10,970 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 11:11:11,005 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 11:11:11,036 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 11:11:13,203 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 11:11:13,219 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 11:11:15,739 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:11:19,821 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:11:24,390 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 11:11:24,404 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 11:11:24,451 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 11:11:27,463 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 11:11:27,478 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 11:11:27,571 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 11:11:27,602 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 11:11:27,690 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 11:11:32,151 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:11:32,152 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:11:32,153 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:14:27,914 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:14:27,915 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:14:32,807 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 11:14:32,822 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 11:14:32,848 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 11:14:35,117 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 11:14:35,134 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 11:14:37,586 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:14:41,687 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:14:46,004 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 11:14:46,020 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 11:14:46,064 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 11:14:49,071 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 11:14:49,087 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 11:14:49,199 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 11:14:49,226 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 11:14:49,346 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 11:14:54,219 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:14:54,221 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:14:54,221 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:19:21,196 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:19:21,196 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:19:25,882 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 11:19:25,902 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 11:19:25,947 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 11:19:28,145 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 11:19:28,159 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 11:19:30,573 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:19:34,673 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:19:39,047 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 11:19:39,060 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 11:19:39,107 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 11:19:42,116 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 11:19:42,126 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 11:19:42,215 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 11:19:42,237 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 11:19:42,318 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 11:19:47,185 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:19:51,278 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:19:53,672 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:19:53,697 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:19:53,830 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 11:19:53,856 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:19:53,938 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:19:54,086 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:19:54,195 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:19:56,646 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:20:00,732 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:20:03,640 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:20:03,665 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:20:03,768 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-26 11:20:03,788 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:20:03,882 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:20:04,044 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:20:04,141 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:20:06,545 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:20:10,640 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:20:13,063 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:20:13,077 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:20:13,176 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 11:20:13,187 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:20:13,251 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-26 11:20:13,418 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:20:13,547 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:20:16,014 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:20:16,015 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:20:16,016 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 11:28:26,893 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 11:28:29,083 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:28:29,101 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:28:29,217 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 11:28:29,233 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:28:29,328 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:28:29,450 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:28:29,586 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:28:29,592 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:28:29,733 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-26 11:28:29,751 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-26 11:28:29,926 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-26 11:28:30,945 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:28:30,957 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:28:31,110 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-26 11:28:31,132 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-26 11:28:31,290 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-26 11:28:31,306 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-26 11:28:31,403 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-26 11:28:31,419 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 11:28:31,530 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 11:28:33,671 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-26 11:28:33,681 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-26 11:28:33,968 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-26 11:28:34,151 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-26 11:28:34,460 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-26 11:28:34,476 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-26 11:28:34,487 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-26 11:28:34,510 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-26 11:28:34,534 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-26 11:28:36,547 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-26 11:28:36,746 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-26 11:28:37,938 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:28:44,387 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:28:46,761 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:28:46,790 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:28:46,888 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 11:28:46,904 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:28:46,970 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:28:47,142 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:28:47,252 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:28:49,691 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:28:53,797 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:28:56,251 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:28:56,272 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:28:56,400 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-26 11:28:56,416 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:28:56,500 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:28:56,653 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:28:56,801 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:28:59,264 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:29:03,356 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:29:05,677 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 11:29:05,692 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:29:05,784 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 11:29:05,798 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:29:05,876 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-26 11:29:06,049 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 11:29:06,154 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 11:29:08,608 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:29:12,681 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:29:17,462 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 11:29:17,487 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 11:29:17,525 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 11:29:19,708 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 11:29:19,719 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 11:29:22,240 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:29:26,347 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:29:30,896 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 11:29:30,912 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 11:29:30,957 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 11:29:33,964 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 11:29:33,975 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 11:29:34,082 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 11:29:34,106 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 11:29:34,207 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 11:29:39,017 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:29:43,104 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:29:45,433 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 11:29:45,453 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:29:45,540 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-26 11:29:45,567 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 11:29:45,665 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-26 11:29:45,677 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:29:45,733 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:29:45,765 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 11:29:45,849 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 11:29:45,860 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 11:29:45,936 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 11:29:45,946 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 11:29:46,009 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 11:29:46,027 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 11:29:46,080 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 11:29:46,092 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 11:29:46,136 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 11:29:46,147 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 11:29:46,231 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 11:29:46,245 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 11:29:46,301 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 11:29:46,312 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 11:29:46,363 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 11:29:46,524 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 11:29:46,680 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 11:29:52,765 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:29:56,871 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:29:59,228 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 11:29:59,250 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:29:59,338 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-26 11:29:59,356 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 11:29:59,444 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-26 11:29:59,461 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:29:59,576 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:29:59,597 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 11:29:59,665 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 11:29:59,677 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 11:29:59,750 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 11:29:59,761 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 11:29:59,814 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 11:29:59,824 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 11:29:59,916 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 11:29:59,934 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 11:29:59,994 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 11:30:00,008 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 11:30:00,111 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 11:30:00,122 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 11:30:00,187 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 11:30:00,199 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 11:30:00,254 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 11:30:00,413 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 11:30:00,417 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 11:30:14,999 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:30:19,111 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:30:21,555 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 11:30:21,576 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 11:30:21,671 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-26 11:30:21,689 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 11:30:21,800 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-26 11:30:21,814 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 11:30:21,901 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 11:30:21,926 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 11:30:22,018 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 11:30:22,037 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 11:30:22,120 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 11:30:22,143 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 11:30:22,208 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 11:30:22,220 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 11:30:22,284 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 11:30:22,300 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 11:30:22,353 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 11:30:22,364 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 11:30:22,453 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 11:30:22,463 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 11:30:22,550 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 11:30:22,561 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 11:30:22,627 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 11:30:22,776 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 11:30:22,780 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 11:30:37,359 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:30:41,434 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 11:30:44,755 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 11:30:44,810 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-26 11:30:44,924 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-26 11:30:47,467 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 11:30:47,488 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 11:30:47,499 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:40:56,619 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:40:56,620 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:41:01,461 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 13:41:01,474 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 13:41:01,502 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 13:41:03,682 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 13:41:03,718 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 13:41:06,001 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:41:10,087 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:41:13,856 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 13:41:13,871 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 13:41:13,916 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 13:41:16,924 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 13:41:16,934 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 13:41:17,016 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 13:41:17,028 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 13:41:17,079 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 13:41:21,607 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:41:21,608 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:41:21,610 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:42:06,535 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:42:06,536 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:42:10,499 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 13:42:10,519 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 13:42:10,543 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 13:42:12,718 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 13:42:12,730 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 13:42:15,441 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:42:15,442 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:42:15,443 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:47:27,882 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:47:27,883 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:47:32,138 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:47:36,235 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:47:40,110 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:47:40,111 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:47:40,112 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:49:25,107 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:49:25,108 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:49:29,377 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:49:33,477 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:49:37,353 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:49:37,354 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:49:37,355 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:51:16,408 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:51:16,409 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:51:20,677 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:51:24,765 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:51:28,651 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:51:28,652 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:51:28,653 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:51:46,228 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:51:46,228 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:51:50,443 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:51:54,544 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:51:58,594 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:51:58,595 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:51:58,596 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:52:32,504 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:52:32,504 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:52:36,629 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:52:49,432 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:52:49,432 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:52:53,495 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 13:52:53,510 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 13:52:53,542 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 13:52:55,723 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 13:52:55,735 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 13:52:58,366 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:52:58,368 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:52:58,368 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:57:00,928 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:57:00,929 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:57:05,043 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 13:57:05,059 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 13:57:05,095 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 13:57:07,285 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 13:57:07,315 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 13:57:10,243 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:57:10,246 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:57:14,155 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 13:57:14,172 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 13:57:14,211 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 13:57:17,222 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 13:57:17,245 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 13:57:17,340 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 13:57:17,354 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 13:57:17,410 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 13:57:26,043 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:57:26,044 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:57:26,045 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:58:42,127 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:58:42,128 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:58:46,095 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 13:58:46,111 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 13:58:46,131 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 13:58:48,412 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 13:58:48,429 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 13:58:51,091 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:58:51,091 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 13:58:51,092 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 13:59:36,060 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 13:59:36,061 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:59:40,038 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 13:59:40,052 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 13:59:40,088 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 13:59:42,265 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 13:59:42,276 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 13:59:44,991 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 13:59:44,996 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 13:59:48,828 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 13:59:48,841 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 13:59:48,878 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 13:59:51,886 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 13:59:51,895 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 13:59:51,977 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 13:59:51,986 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 13:59:52,040 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 14:00:00,723 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:00:00,724 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:00:00,725 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 14:01:26,188 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:01:26,189 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:01:30,145 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:01:30,169 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:01:30,192 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:01:32,372 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:01:32,385 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:01:35,159 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:01:35,162 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:01:35,163 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 14:02:31,911 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:02:31,912 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:02:35,865 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:02:35,883 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:02:35,904 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:02:38,078 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:02:38,090 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:02:57,810 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:02:57,811 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:03:02,151 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:03:02,167 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:03:02,207 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:03:04,384 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:03:04,399 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:03:07,239 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:03:07,242 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:03:11,483 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 14:03:11,497 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 14:03:11,543 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 14:03:14,549 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 14:03:14,560 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 14:03:14,636 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 14:03:14,648 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 14:03:14,700 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 14:03:23,370 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:03:23,371 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:03:23,372 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 14:06:14,547 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:06:14,548 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:06:23,855 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:06:23,873 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:06:23,916 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:06:26,111 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:06:26,121 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:09:23,913 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:09:23,914 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:09:28,036 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:09:28,052 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:09:28,092 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:09:30,317 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:09:30,331 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:09:33,222 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:09:33,225 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:09:37,031 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 14:09:37,048 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 14:09:37,086 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 14:09:40,092 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 14:09:40,103 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 14:09:40,177 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 14:09:40,186 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 14:09:40,231 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 14:09:48,766 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:09:48,767 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:09:48,768 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 14:46:40,471 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:46:40,472 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:46:46,072 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:46:46,180 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:46:46,239 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:46:48,499 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:46:48,540 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:46:50,950 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:46:55,049 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:46:59,922 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 14:46:59,960 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 14:47:00,038 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 14:47:03,052 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 14:47:03,067 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 14:47:03,156 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 14:47:03,186 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 14:47:03,265 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 14:47:08,015 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:47:08,016 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:47:08,019 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 14:55:21,936 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:55:21,936 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:55:26,544 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:55:26,564 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:55:26,622 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:55:28,814 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:55:28,826 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:55:31,315 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:55:31,320 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:55:39,877 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 14:55:39,939 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 14:55:40,005 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 14:55:43,010 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 14:55:43,024 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 14:55:43,179 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 14:55:43,204 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 14:55:43,356 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 14:55:48,146 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:55:48,147 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:55:48,148 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 14:56:56,413 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 14:56:56,414 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:57:01,574 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 14:57:01,631 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 14:57:01,660 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 14:57:03,857 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 14:57:03,868 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 14:57:07,339 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:57:07,350 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 14:57:12,555 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 14:57:12,582 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 14:57:12,629 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 14:57:15,637 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 14:57:15,647 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 14:57:15,754 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 14:57:15,771 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 14:57:15,864 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 14:57:20,934 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 14:57:20,936 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 14:57:20,936 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:03:44,848 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:03:44,849 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:03:49,654 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:03:49,670 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:03:49,742 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:03:51,948 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:03:51,996 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:03:55,352 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:03:55,356 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:03:59,972 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:03:59,987 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:04:00,032 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:04:03,038 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:04:03,048 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:04:03,130 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:04:03,154 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:04:03,280 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:04:08,164 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:04:08,165 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:04:08,165 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:05:01,969 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:05:01,969 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:05:06,738 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:05:06,761 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:05:06,795 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:05:09,025 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:05:09,035 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:05:12,181 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:05:12,191 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:05:17,079 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:05:17,095 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:05:17,153 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:05:20,166 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:05:20,190 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:05:20,344 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:05:20,362 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:05:20,474 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:05:25,449 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:05:25,450 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:05:25,451 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:07:12,561 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:07:12,562 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:07:17,047 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:07:17,063 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:07:17,087 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:07:19,267 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:07:19,283 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:07:22,258 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:07:22,264 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:07:26,335 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:07:26,349 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:07:26,395 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:07:29,402 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:07:29,412 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:07:29,495 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:07:29,504 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:07:29,560 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:07:34,221 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:07:34,222 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:07:34,223 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:09:46,999 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:09:47,000 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:09:52,261 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:09:52,284 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:09:52,321 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:09:54,509 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:09:54,534 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:09:57,993 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:09:57,996 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:10:02,542 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:10:02,561 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:10:02,602 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:10:05,607 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:10:05,618 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:10:05,731 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:10:05,750 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:10:05,839 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:10:10,840 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:10:10,841 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:10:10,842 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:18:19,410 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:18:19,411 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:18:24,314 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:18:24,346 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:18:24,390 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:18:26,564 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:18:26,575 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:18:30,053 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:18:30,060 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:18:34,521 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:18:34,537 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:18:34,590 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:18:37,595 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:18:37,605 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:18:37,705 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:18:37,717 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:18:37,804 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:18:42,870 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:18:42,871 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:18:42,872 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:21:25,082 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:21:25,083 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:21:29,364 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:21:29,384 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:21:29,408 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:21:31,579 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:21:31,596 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:21:34,542 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:21:34,545 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:21:38,601 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:21:38,620 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:21:38,671 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:21:41,679 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:21:41,690 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:21:41,776 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:21:41,788 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:21:41,840 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:21:46,719 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:21:46,721 - conftest.py:14 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:21:46,721 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:24:45,617 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:24:48,030 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:24:48,045 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:24:48,145 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 15:24:48,160 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:24:48,241 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:24:48,256 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:24:48,380 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:24:48,532 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:24:48,676 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-26 15:24:48,692 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-26 15:24:48,840 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-26 15:24:49,868 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:24:49,879 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:24:50,045 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-26 15:24:50,073 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-26 15:24:50,180 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-26 15:24:50,196 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-26 15:24:50,261 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-26 15:24:50,298 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:24:50,433 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:24:52,573 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-26 15:24:52,583 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-26 15:24:52,898 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-26 15:24:53,107 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-26 15:24:53,420 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-26 15:24:53,437 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-26 15:24:53,450 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-26 15:24:53,469 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-26 15:24:53,488 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-26 15:24:55,501 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-26 15:24:55,640 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-26 15:24:56,878 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:25:03,520 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:25:05,997 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:25:06,022 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:25:06,153 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 15:25:06,173 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:25:06,257 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:25:06,271 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:25:06,401 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:25:09,009 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:25:09,012 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:25:15,622 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:25:15,680 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:25:15,830 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-26 15:25:15,846 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:25:15,917 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:25:15,928 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:25:16,044 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:25:18,859 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:25:18,862 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:25:25,563 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:25:25,582 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:25:25,691 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 15:25:25,705 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:25:25,786 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-26 15:25:25,802 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:25:25,940 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:25:28,729 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:25:28,731 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:25:37,478 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:25:37,511 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:25:37,540 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:25:39,724 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:25:39,738 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:25:42,676 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:25:42,679 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:25:47,485 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:25:47,497 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:25:47,593 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:25:50,601 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:25:50,617 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:25:50,741 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:25:50,758 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:25:50,856 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:25:55,727 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:25:55,731 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:26:02,430 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:26:02,460 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:26:02,545 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-26 15:26:02,579 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 15:26:02,651 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-26 15:26:02,671 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:26:02,726 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:26:02,742 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 15:26:02,959 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 15:26:02,987 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 15:26:03,119 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 15:26:03,161 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 15:26:03,255 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 15:26:03,266 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 15:26:03,338 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 15:26:03,349 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 15:26:03,401 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 15:26:03,412 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 15:26:03,493 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 15:26:03,503 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 15:26:03,562 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 15:26:03,577 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 15:26:03,631 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 15:26:03,642 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:26:03,807 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:26:09,605 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:26:09,607 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:26:16,141 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:26:16,162 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:26:16,237 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-26 15:26:16,250 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 15:26:16,337 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-26 15:26:16,352 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:26:16,431 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:26:16,457 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 15:26:16,541 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 15:26:16,553 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 15:26:16,619 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 15:26:16,633 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 15:26:16,694 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 15:26:16,711 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 15:26:16,757 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 15:26:16,769 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 15:26:16,836 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 15:26:16,849 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 15:26:16,936 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 15:26:16,952 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 15:26:17,022 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 15:26:17,037 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 15:26:17,098 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 15:26:17,110 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:26:17,115 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:26:31,915 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:26:31,918 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:26:38,478 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:26:38,506 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:26:38,572 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-26 15:26:38,582 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 15:26:38,678 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-26 15:26:38,693 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:26:38,845 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:26:38,860 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 15:26:38,921 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 15:26:38,935 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 15:26:39,012 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 15:26:39,022 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 15:26:39,078 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 15:26:39,094 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 15:26:39,185 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 15:26:39,201 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 15:26:39,258 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 15:26:39,270 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 15:26:39,367 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 15:26:39,377 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 15:26:39,442 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 15:26:39,456 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 15:26:39,508 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 15:26:39,521 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:26:39,528 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:26:54,234 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:26:54,239 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:27:00,858 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:27:00,885 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-26 15:27:00,973 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-26 15:27:03,547 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:27:03,550 - conftest.py:14 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:27:03,551 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:44:28,416 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:44:28,417 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:44:32,510 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:44:32,526 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:44:32,548 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:44:34,703 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:44:34,715 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:44:37,588 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:44:37,596 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:44:41,786 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:44:41,800 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:44:41,839 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:44:44,846 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:44:44,857 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:44:44,934 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:44:44,943 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:44:44,999 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:44:49,537 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:44:49,539 - conftest.py:14 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:44:49,539 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 15:45:06,754 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 15:45:08,527 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:45:08,542 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:45:08,610 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 15:45:08,620 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:45:08,663 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:45:08,673 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:45:08,744 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:45:08,897 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:45:08,986 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-26 15:45:09,002 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-26 15:45:09,083 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-26 15:45:10,102 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:45:10,113 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:45:10,233 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-26 15:45:10,251 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-26 15:45:10,335 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-26 15:45:10,349 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-26 15:45:10,422 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-26 15:45:10,439 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:45:10,496 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:45:12,626 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-26 15:45:12,637 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-26 15:45:12,809 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-26 15:45:12,964 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-26 15:45:13,100 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-26 15:45:13,119 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-26 15:45:13,135 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-26 15:45:13,151 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-26 15:45:13,166 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-26 15:45:15,177 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-26 15:45:15,293 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-26 15:45:16,445 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:45:22,724 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:45:24,667 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:45:24,680 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:45:24,756 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 15:45:24,767 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:45:24,813 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:45:24,822 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:45:24,913 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:45:27,298 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:45:27,309 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:45:33,325 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:45:33,342 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:45:33,429 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-26 15:45:33,439 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:45:33,490 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:45:33,499 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:45:33,596 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:45:35,986 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:45:35,989 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:45:42,055 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-26 15:45:42,077 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:45:42,156 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-26 15:45:42,170 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:45:42,220 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-26 15:45:42,230 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-26 15:45:42,323 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-26 15:45:44,726 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:45:44,729 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:45:52,764 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 15:45:52,782 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 15:45:52,806 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 15:45:54,985 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 15:45:55,000 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 15:45:57,666 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:45:57,669 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:46:02,008 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 15:46:02,023 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 15:46:02,076 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 15:46:05,083 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 15:46:05,093 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 15:46:05,172 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 15:46:05,183 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 15:46:05,233 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 15:46:09,776 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:46:09,779 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:46:15,903 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:46:15,922 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:46:15,979 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-26 15:46:15,988 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 15:46:16,051 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-26 15:46:16,066 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:46:16,122 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:46:16,148 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 15:46:16,229 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 15:46:16,240 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 15:46:16,294 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 15:46:16,303 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 15:46:16,358 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 15:46:16,368 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 15:46:16,413 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 15:46:16,423 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 15:46:16,464 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 15:46:16,473 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 15:46:16,545 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 15:46:16,554 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 15:46:16,603 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 15:46:16,613 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 15:46:16,659 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 15:46:16,671 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:46:16,785 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:46:22,157 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:46:22,160 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:46:28,226 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:46:28,240 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:46:28,308 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-26 15:46:28,319 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 15:46:28,402 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-26 15:46:28,414 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:46:28,468 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:46:28,497 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 15:46:28,566 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 15:46:28,577 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 15:46:28,627 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 15:46:28,637 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 15:46:28,683 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 15:46:28,693 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 15:46:28,743 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 15:46:28,751 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 15:46:28,798 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 15:46:28,809 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 15:46:28,888 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 15:46:28,897 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 15:46:28,947 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 15:46:28,959 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 15:46:29,002 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 15:46:29,014 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:46:29,019 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:46:43,426 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:46:43,428 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:46:49,982 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:46:49,998 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-26 15:46:50,057 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-26 15:46:50,069 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-26 15:46:50,138 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-26 15:46:50,151 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-26 15:46:50,227 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-26 15:46:50,252 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-26 15:46:50,312 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-26 15:46:50,323 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-26 15:46:50,379 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-26 15:46:50,390 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-26 15:46:50,433 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-26 15:46:50,445 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-26 15:46:50,491 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-26 15:46:50,500 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-26 15:46:50,547 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-26 15:46:50,556 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-26 15:46:50,631 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-26 15:46:50,640 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-26 15:46:50,692 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-26 15:46:50,702 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-26 15:46:50,744 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-26 15:46:50,758 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-26 15:46:50,762 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-26 15:47:05,135 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:47:05,138 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 15:47:11,248 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-26 15:47:11,272 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-26 15:47:11,369 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-26 15:47:13,621 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 15:47:13,623 - conftest.py:14 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 15:47:13,623 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 17:05:06,833 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 17:05:06,834 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:05:12,554 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 17:05:12,586 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 17:05:12,640 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 17:05:14,826 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 17:05:14,839 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 17:05:17,313 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:05:17,318 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:05:26,276 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 17:05:26,294 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 17:05:26,374 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 17:05:29,383 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 17:05:29,395 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 17:05:29,497 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 17:05:29,529 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 17:05:29,660 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 17:05:34,441 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:05:34,442 - conftest.py:14 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 17:05:34,444 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 17:08:11,922 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 17:08:11,923 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:08:16,547 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 17:08:16,568 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 17:08:16,622 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 17:08:18,788 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 17:08:18,798 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 17:08:21,240 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:08:21,243 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:08:29,878 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 17:08:29,891 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 17:08:29,929 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 17:08:32,938 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 17:08:32,953 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 17:08:33,053 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 17:08:33,074 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 17:08:33,190 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 17:08:37,952 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:08:37,953 - conftest.py:15 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 17:08:37,954 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 17:08:58,318 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 17:08:58,319 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:09:02,747 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 17:09:02,761 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 17:09:02,823 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 17:09:05,007 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 17:09:05,019 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 17:09:07,772 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:09:07,775 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:09:16,219 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 17:09:16,239 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 17:09:16,280 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 17:09:19,287 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 17:09:19,297 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 17:09:19,390 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 17:09:19,406 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 17:09:19,501 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 17:09:24,380 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:09:24,381 - conftest.py:15 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 17:09:24,382 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-26 17:37:03,812 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-26 17:37:03,813 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:37:08,648 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-26 17:37:08,663 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-26 17:37:08,698 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-26 17:37:10,897 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-26 17:37:10,907 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-26 17:37:13,388 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:37:13,393 - conftest.py:12 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-26 17:37:22,512 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-26 17:37:22,528 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-26 17:37:22,596 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-26 17:37:25,603 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-26 17:37:25,618 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-26 17:37:25,723 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-26 17:37:25,736 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-26 17:37:25,824 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-26 17:37:30,543 - conftest.py:14 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-26 17:37:30,545 - conftest.py:16 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-26 17:37:30,546 - connectMysql.py:63 -[connectMysql:delete] - 数据库数据删除成功

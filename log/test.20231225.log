@@ -1,0 +1,1839 @@
+INFO - 2023-12-25 09:54:43,001 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 09:54:51,820 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 09:54:51,833 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="密码登录"]
+INFO - 2023-12-25 09:54:51,861 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="密码登录"]')
+INFO - 2023-12-25 09:54:51,886 - basePage.py:108 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 09:54:51,999 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：19179068002
+INFO - 2023-12-25 09:54:52,012 - basePage.py:108 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 09:54:52,293 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：yzm19179068002
+INFO - 2023-12-25 09:54:52,334 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="登录"]
+INFO - 2023-12-25 09:54:52,385 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="登录"]')
+ERROR - 2023-12-25 09:55:05,936 - basePage.py:111 -[basePage:location_element] - 未找到元素：class name = yidun_bg-img
+INFO - 2023-12-25 09:55:08,453 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 09:58:49,459 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 09:58:53,329 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+ERROR - 2023-12-25 09:59:13,853 - basePage.py:111 -[basePage:location_element] - 未找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 09:59:16,332 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:01:32,849 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:01:36,017 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:01:36,337 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div/div/div/div[2]/div/div[3]/span/button[1]
+INFO - 2023-12-25 10:01:36,469 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[@id="root"]/div/main/div/div/div/div/div[2]/div/div[3]/span/button[1]')
+INFO - 2023-12-25 10:01:46,494 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:01:46,516 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:01:49,023 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:02:11,675 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:02:15,004 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:02:15,066 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div/div/div/div[2]/div/div[3]/span/button[1]
+INFO - 2023-12-25 10:02:15,121 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[@id="root"]/div/main/div/div/div/div/div[2]/div/div[3]/span/button[1]')
+INFO - 2023-12-25 10:02:25,162 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:02:25,191 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:02:37,662 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:06:52,546 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:06:55,980 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:07:06,024 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:07:06,073 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:07:18,520 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:10:55,486 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:10:58,899 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:11:08,928 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:11:08,974 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:11:12,308 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/write
+ERROR - 2023-12-25 10:11:22,869 - basePage.py:111 -[basePage:location_element] - 未找到元素：xpath = //*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea
+INFO - 2023-12-25 10:11:25,323 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:21:16,075 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:21:19,849 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:21:29,864 - basePage.py:118 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:21:29,920 - basePage.py:153 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:21:35,393 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:23:30,920 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:23:33,609 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:23:43,622 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:23:43,682 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:23:46,715 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea
+INFO - 2023-12-25 10:23:46,784 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea')，输入的内容为：控制系统
+INFO - 2023-12-25 10:23:46,793 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div[2]/div[2]/div[2]/div[1]/div/div[1]/div
+INFO - 2023-12-25 10:23:49,317 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:30:02,112 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:30:04,782 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:30:16,281 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:30:16,363 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:30:19,412 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea
+INFO - 2023-12-25 10:30:19,478 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea')，输入的内容为：控制系统
+ERROR - 2023-12-25 10:30:30,027 - basePage.py:118 -[basePage:location_element] - 未找到元素：xpath = //*[@id="placeholder-77rgl"]
+INFO - 2023-12-25 10:30:32,502 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:32:08,663 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:32:11,915 - basePage.py:53 -[basePage:open_url] - 打开页面：https://www.zhihu.com/signin
+INFO - 2023-12-25 10:32:21,928 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[text()="写文章"]
+INFO - 2023-12-25 10:32:21,980 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[text()="写文章"]')
+INFO - 2023-12-25 10:32:25,012 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea
+INFO - 2023-12-25 10:32:25,077 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="root"]/div/main/div/div[2]/div[2]/div[1]/label/textarea')，输入的内容为：控制系统
+INFO - 2023-12-25 10:32:25,087 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="root"]/div/main/div/div[2]/div[2]/div[2]/div[1]/div/div[1]/div
+INFO - 2023-12-25 10:32:27,580 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:52:38,592 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:52:43,016 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 10:52:43,028 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 10:52:43,054 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 10:52:45,695 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 10:52:45,757 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 10:52:45,767 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 10:52:45,811 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 10:52:47,976 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:53:18,048 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:53:22,364 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 10:53:22,374 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 10:53:22,396 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 10:53:24,826 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 10:53:24,902 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 10:53:24,918 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 10:53:24,973 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 10:53:27,175 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:58:43,346 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:58:47,972 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 10:58:47,986 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 10:58:48,015 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 10:58:55,415 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 10:58:55,435 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 10:58:55,484 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 10:58:55,492 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 10:58:55,543 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 10:58:57,724 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 10:59:25,357 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 10:59:29,376 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 10:59:29,387 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 10:59:29,421 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 10:59:35,006 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 10:59:35,017 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 10:59:35,067 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 10:59:35,076 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 10:59:35,112 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 10:59:42,327 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:00:22,245 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:00:26,244 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:00:26,261 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:00:26,292 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:00:31,533 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:00:31,546 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:00:31,592 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:00:31,601 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:00:31,644 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:00:38,835 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:00:49,252 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:00:53,408 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:00:53,418 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:00:53,452 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:00:58,793 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:00:58,806 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:00:58,892 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:01:01,903 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:01:01,960 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:01:09,137 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:02:46,701 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:02:50,961 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:02:50,974 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:02:51,009 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:02:56,169 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:02:56,182 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:02:56,237 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:02:59,254 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:02:59,304 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:03:06,469 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:11:44,934 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:11:49,036 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:11:49,050 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:11:49,080 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:11:54,467 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:11:54,478 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:11:54,542 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:11:57,563 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:11:57,610 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:12:02,642 - basePage.py:325 -[basePage:assert_element_to_be_clickable] - 元素是可点击的，并且可以进行交互
+INFO - 2023-12-25 11:12:04,839 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:14:06,502 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:14:10,689 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:14:10,703 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:14:10,733 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:14:15,820 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:14:15,832 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:14:15,884 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:14:18,895 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:14:18,951 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:14:24,007 - basePage.py:325 -[basePage:assert_element_to_be_clickable] - 断言结果：元素是可点击的，并且可以进行交互
+INFO - 2023-12-25 11:14:26,264 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:14:38,736 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:14:42,778 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:14:42,792 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:14:42,829 - basePage.py:150 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:14:45,118 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:14:45,192 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:14:48,204 - basePage.py:115 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:14:48,248 - basePage.py:165 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:14:53,306 - basePage.py:325 -[basePage:assert_element_to_be_clickable] - 断言结果：元素是可点击的，并且可以进行交互
+INFO - 2023-12-25 11:14:55,516 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:22:46,971 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:22:52,250 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:22:52,267 - basePage.py:123 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:22:52,308 - basePage.py:158 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:22:52,321 - basePage.py:89 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 11:22:54,967 - basePage.py:123 -[basePage:location_element] - 找到元素：xpath = //*[@id="email"]
+INFO - 2023-12-25 11:22:55,037 - basePage.py:173 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="email"]')，输入的内容为：672787@163.com
+INFO - 2023-12-25 11:22:58,048 - basePage.py:123 -[basePage:location_element] - 找到元素：xpath = //*[@id="message"]
+INFO - 2023-12-25 11:22:58,083 - basePage.py:173 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="message"]')，输入的内容为：切换窗口句柄
+INFO - 2023-12-25 11:23:03,156 - basePage.py:333 -[basePage:assert_element_to_be_clickable] - 断言结果：元素是可点击的，并且可以进行交互
+INFO - 2023-12-25 11:23:05,322 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:45:55,136 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:45:59,916 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:45:59,929 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:45:59,957 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:46:05,457 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:46:05,489 - basePage.py:108 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 11:46:05,570 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 11:46:05,584 - basePage.py:108 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 11:46:05,658 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 11:46:08,083 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:46:30,161 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:46:34,515 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:46:34,526 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:46:34,558 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:46:39,778 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:46:39,799 - basePage.py:108 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 11:46:39,902 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 11:46:39,917 - basePage.py:108 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 11:46:39,989 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 11:46:47,776 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 11:46:56,138 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 11:47:00,549 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 11:47:00,564 - basePage.py:108 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 11:47:00,603 - basePage.py:143 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 11:47:07,210 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/dashboard.xhtml
+INFO - 2023-12-25 11:47:07,247 - basePage.py:108 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 11:47:07,378 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 11:47:07,405 - basePage.py:108 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 11:47:07,484 - basePage.py:158 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 11:47:15,016 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 12:03:42,590 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 12:03:47,233 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 12:03:47,253 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 12:03:47,295 - basePage.py:164 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 12:03:50,305 - basePage.py:95 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 12:03:50,321 - basePage.py:129 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 12:03:50,394 - basePage.py:179 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 12:03:50,412 - basePage.py:129 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 12:03:50,505 - basePage.py:179 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 12:03:58,276 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 12:04:21,005 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 12:04:25,534 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 12:04:25,546 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 12:04:25,579 - basePage.py:164 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 12:04:28,585 - basePage.py:95 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 12:04:28,599 - basePage.py:129 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 12:04:28,712 - basePage.py:179 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 12:04:28,729 - basePage.py:129 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 12:04:28,820 - basePage.py:179 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 12:04:40,794 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:15:31,217 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:15:35,587 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:15:35,597 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 13:15:48,082 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:16:12,353 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:16:16,486 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:16:16,498 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:16:16,504 - basePage.py:164 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:j_idt89_input"]')
+INFO - 2023-12-25 13:16:16,514 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 13:16:29,053 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:17:26,929 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:17:31,117 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:17:31,127 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:17:31,138 - basePage.py:164 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:j_idt89_input"]')
+INFO - 2023-12-25 13:17:31,144 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:17:31,168 - basePage.py:179 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 13:17:38,360 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:24:05,500 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:24:09,764 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:24:09,778 - basePage.py:134 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:24:09,801 - basePage.py:184 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 13:24:17,263 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:29:17,165 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:29:21,668 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:29:21,678 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:29:21,705 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 13:32:13,202 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:32:17,284 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:32:17,294 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:32:17,317 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 13:32:22,329 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 13:32:22,340 - basePage.py:65 -[basePage:tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 13:32:24,519 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:33:08,896 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:33:12,964 - basePage.py:49 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:33:12,979 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:33:15,415 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:49:09,892 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:49:14,997 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:49:15,013 - basePage.py:129 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:49:15,040 - basePage.py:179 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 13:49:23,008 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:56:48,453 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:56:53,002 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:56:53,016 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:56:53,050 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 13:56:58,064 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 13:56:58,084 - basePage.py:74 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 13:57:01,369 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 13:57:30,460 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 13:57:35,020 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 13:57:35,036 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 13:57:37,819 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+ERROR - 2023-12-25 14:24:12,059 - configParse.py:25 -[configParse:get_value] - 解析配置文件出现异常，原因：No option 'port' in section: 'HOST'
+ERROR - 2023-12-25 14:25:15,424 - configParse.py:25 -[configParse:get_value] - 解析配置文件出现异常，原因：No option 'host' in section: 'MYSQL'
+ERROR - 2023-12-25 14:25:15,424 - configParse.py:25 -[configParse:get_value] - 解析配置文件出现异常，原因：No option 'database' in section: 'MYSQL'
+INFO - 2023-12-25 14:25:15,435 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：None
+            port：3306
+            db：None
+            
+ERROR - 2023-12-25 14:25:15,436 - connectMysql.py:66 -[connectMysql:query_all] - (1046, 'No database selected')
+INFO - 2023-12-25 14:26:00,382 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:28:20,095 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:29:08,531 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:29:19,478 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:29:33,535 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:31:59,530 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:32:19,080 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:32:33,637 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:35:28,613 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+INFO - 2023-12-25 14:35:45,883 - connectMysql.py:25 -[connectMysql:__init__] - 成功连接到mysql---
+            host：localhost
+            port：3306
+            db：ecshop
+            
+ERROR - 2023-12-25 15:05:09,644 - configParse.py:25 -[configParse:get_value] - 解析配置文件出现异常，原因：No option 'port' in section: 'HOST'
+INFO - 2023-12-25 15:05:56,755 - connectMysql.py:23 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+ERROR - 2023-12-25 15:05:56,755 - connectMysql.py:43 -[connectMysql:query] - 查询数据库内容出现异常，(1146, "Table 'test.ecs_users' doesn't exist")
+INFO - 2023-12-25 15:07:42,030 - connectMysql.py:23 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:07:53,096 - connectMysql.py:23 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:08:41,642 - connectMysql.py:23 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:09:02,931 - connectMysql.py:23 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:09:28,929 - connectMysql.py:23 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:11:03,511 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:14:12,698 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:15:27,584 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:20:09,829 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:20:12,294 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:20:12,305 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:20:12,369 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 15:20:12,385 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:20:12,438 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:20:12,449 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:20:12,569 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:20:12,570 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:20:12,688 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 15:20:12,702 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 15:20:12,806 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 15:20:17,827 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:20:17,828 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:20:17,975 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 15:20:17,991 - basePage.py:139 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 15:20:18,154 - basePage.py:174 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 15:20:18,175 - basePage.py:139 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 15:20:18,227 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 15:20:18,238 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:20:18,353 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:20:21,371 - basePage.py:139 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 15:20:21,380 - basePage.py:174 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 15:20:21,512 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 15:20:21,526 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 15:20:21,669 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 15:20:21,686 - basePage.py:139 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 15:20:21,698 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 15:20:21,712 - basePage.py:139 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 15:20:21,719 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 15:20:23,733 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 15:20:23,967 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 15:20:27,992 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:20:34,270 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:20:36,392 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:20:36,412 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:20:36,471 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 15:20:36,490 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:20:36,540 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:20:36,548 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:20:36,654 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:20:41,948 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:20:46,021 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:20:48,027 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:20:48,039 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:20:48,121 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 15:20:48,136 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:20:48,183 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:20:48,192 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:20:48,282 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:20:53,528 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:20:57,631 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:20:59,623 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:20:59,640 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:20:59,698 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 15:20:59,718 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:20:59,770 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 15:20:59,778 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:20:59,904 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:21:05,150 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:21:09,257 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:21:13,420 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 15:21:13,432 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 15:21:13,470 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 15:21:18,480 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 15:21:18,493 - basePage.py:74 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 15:21:20,705 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:21:24,780 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:21:28,987 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 15:21:28,999 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 15:21:29,036 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 15:21:32,044 - basePage.py:105 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 15:21:32,060 - basePage.py:139 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 15:21:32,139 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 15:21:32,151 - basePage.py:139 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 15:21:32,206 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 15:21:42,439 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:21:46,510 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:21:48,570 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:21:48,583 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:21:48,637 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 15:21:48,647 - basePage.py:139 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 15:21:48,709 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 15:21:48,720 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:21:48,769 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:21:48,782 - basePage.py:139 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 15:21:48,865 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 15:21:48,877 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 15:21:48,929 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 15:21:48,937 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 15:21:48,986 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 15:21:48,995 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 15:21:49,043 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 15:21:49,053 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 15:21:49,097 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 15:21:49,109 - basePage.py:139 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 15:21:49,183 - basePage.py:204 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 15:21:49,192 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 15:21:49,239 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 15:21:49,245 - basePage.py:139 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 15:21:49,288 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 15:21:49,298 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:21:49,411 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:21:56,242 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:22:00,336 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:22:02,377 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:22:02,390 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:22:02,453 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 15:22:02,463 - basePage.py:139 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 15:22:02,528 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 15:22:02,537 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:22:02,586 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:22:02,598 - basePage.py:139 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 15:22:02,662 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 15:22:02,676 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 15:22:02,733 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 15:22:02,743 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 15:22:02,786 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 15:22:02,794 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 15:22:02,838 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 15:22:02,848 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 15:22:02,891 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 15:22:02,900 - basePage.py:139 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 15:22:02,976 - basePage.py:204 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 15:22:02,984 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 15:22:03,032 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 15:22:03,040 - basePage.py:139 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 15:22:03,084 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 15:22:03,094 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:22:03,097 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:22:17,321 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:22:21,425 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:22:23,449 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:22:23,460 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:22:23,519 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 15:22:23,528 - basePage.py:139 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 15:22:23,597 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 15:22:23,607 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:22:23,657 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:22:23,667 - basePage.py:139 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 15:22:23,755 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 15:22:23,767 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 15:22:23,817 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 15:22:23,826 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 15:22:23,869 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 15:22:23,880 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 15:22:23,931 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 15:22:23,940 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 15:22:23,988 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 15:22:23,997 - basePage.py:139 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 15:22:24,065 - basePage.py:204 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 15:22:24,073 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 15:22:24,122 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 15:22:24,130 - basePage.py:139 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 15:22:24,176 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 15:22:24,185 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:22:24,188 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:22:38,415 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:22:42,525 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:22:44,655 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:22:44,674 - basePage.py:139 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 15:22:44,763 - basePage.py:174 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 15:22:46,964 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:22:46,965 - connectMysql.py:55 -[connectMysql:delete] - 删除成功
+INFO - 2023-12-25 15:29:24,859 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 15:29:27,257 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:29:27,269 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:29:27,350 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 15:29:27,365 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:29:27,414 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:29:27,427 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:29:27,577 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:29:27,579 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:29:27,770 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 15:29:27,790 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 15:29:27,971 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 15:29:32,992 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:29:32,993 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:29:33,439 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 15:29:33,461 - basePage.py:139 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 15:29:33,646 - basePage.py:174 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 15:29:33,673 - basePage.py:139 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 15:29:33,754 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 15:29:33,768 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:29:33,962 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:29:36,983 - basePage.py:139 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 15:29:36,993 - basePage.py:174 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 15:29:37,241 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 15:29:37,262 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 15:29:37,473 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 15:29:37,491 - basePage.py:139 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 15:29:37,513 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 15:29:37,544 - basePage.py:139 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 15:29:37,560 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 15:29:39,570 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 15:29:39,823 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 15:29:43,843 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:29:51,899 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:29:54,610 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:29:54,623 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:29:54,710 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 15:29:54,727 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:29:54,781 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:29:54,790 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:29:55,003 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:30:00,601 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:30:04,688 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:30:07,513 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:30:07,543 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:30:07,627 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 15:30:07,646 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:30:07,706 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:30:07,720 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:30:07,889 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:30:14,847 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:30:18,950 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:30:21,515 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 15:30:21,526 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:30:21,638 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 15:30:21,659 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:30:21,732 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 15:30:21,747 - basePage.py:139 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 15:30:21,901 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 15:30:27,410 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:30:31,505 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:30:36,041 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 15:30:36,063 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 15:30:36,092 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 15:30:41,106 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 15:30:41,117 - basePage.py:74 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 15:30:43,801 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:30:47,870 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:30:52,266 - basePage.py:63 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 15:30:52,275 - basePage.py:139 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 15:30:52,329 - basePage.py:174 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 15:30:55,339 - basePage.py:105 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 15:30:55,354 - basePage.py:139 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 15:30:55,434 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 15:30:55,451 - basePage.py:139 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 15:30:55,559 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 15:31:06,053 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:31:10,115 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:31:12,706 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:31:12,728 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:31:12,800 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 15:31:12,813 - basePage.py:139 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 15:31:12,883 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 15:31:12,898 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:31:12,945 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:31:12,965 - basePage.py:139 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 15:31:13,068 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 15:31:13,083 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 15:31:13,143 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 15:31:13,152 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 15:31:13,211 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 15:31:13,223 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 15:31:13,287 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 15:31:13,297 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 15:31:13,346 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 15:31:13,355 - basePage.py:139 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 15:31:13,431 - basePage.py:204 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 15:31:13,440 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 15:31:13,500 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 15:31:13,510 - basePage.py:139 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 15:31:13,572 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 15:31:13,585 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:31:13,815 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:31:19,611 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:31:23,704 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:31:26,724 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:31:26,742 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:31:26,794 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 15:31:26,803 - basePage.py:139 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 15:31:26,853 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 15:31:26,861 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:31:26,904 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:31:26,915 - basePage.py:139 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 15:31:26,972 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 15:31:26,989 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 15:31:27,066 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 15:31:27,079 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 15:31:27,117 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 15:31:27,125 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 15:31:27,164 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 15:31:27,172 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 15:31:27,205 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 15:31:27,214 - basePage.py:139 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 15:31:27,310 - basePage.py:204 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 15:31:27,325 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 15:31:27,380 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 15:31:27,391 - basePage.py:139 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 15:31:27,433 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 15:31:27,442 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:31:27,447 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:31:41,791 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:31:45,881 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:31:48,777 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:31:48,790 - basePage.py:139 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 15:31:48,862 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 15:31:48,878 - basePage.py:139 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 15:31:48,963 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 15:31:48,977 - basePage.py:139 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 15:31:49,025 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 15:31:49,045 - basePage.py:139 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 15:31:49,187 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 15:31:49,199 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 15:31:49,259 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 15:31:49,269 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 15:31:49,324 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 15:31:49,333 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 15:31:49,398 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 15:31:49,411 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 15:31:49,465 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 15:31:49,478 - basePage.py:139 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 15:31:49,569 - basePage.py:204 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 15:31:49,578 - basePage.py:139 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 15:31:49,633 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 15:31:49,644 - basePage.py:139 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 15:31:49,693 - basePage.py:189 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 15:31:49,704 - basePage.py:139 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 15:31:49,707 - basePage.py:174 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 15:32:04,183 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:32:08,272 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 15:32:10,935 - basePage.py:67 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 15:32:10,963 - basePage.py:139 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 15:32:11,049 - basePage.py:174 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 15:32:15,009 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 15:32:15,010 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 15:32:15,011 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 16:04:05,828 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 16:04:07,857 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:04:07,870 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:04:07,933 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:04:07,944 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:04:07,990 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:04:07,999 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:04:08,090 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:04:08,093 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:04:08,211 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:04:08,232 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:04:08,329 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:04:13,345 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:04:13,349 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:04:13,524 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 16:04:13,539 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 16:04:13,712 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 16:04:13,727 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 16:04:13,778 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 16:04:13,791 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:04:13,908 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:04:16,926 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 16:04:16,931 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 16:04:17,040 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:04:17,047 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:04:17,186 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:04:17,196 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 16:04:17,203 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 16:04:17,212 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 16:04:17,222 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 16:04:19,231 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 16:04:19,403 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 16:04:23,421 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:04:29,696 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:04:31,649 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:04:31,663 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:04:31,714 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:04:31,731 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:04:31,774 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:04:31,781 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:04:31,884 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:04:38,500 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:04:42,569 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:04:44,525 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:04:44,536 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:04:44,610 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 16:04:44,621 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:04:44,666 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:04:44,674 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:04:44,742 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:04:51,227 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:04:55,308 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:04:57,250 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:04:57,262 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:04:57,332 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:04:57,343 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:04:57,396 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 16:04:57,403 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:04:57,483 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:05:03,990 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:05:08,073 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:05:12,596 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 16:05:12,611 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 16:05:12,634 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 16:05:17,644 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 16:05:17,655 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 16:05:19,832 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:05:23,910 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:05:28,239 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 16:05:28,250 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 16:05:28,281 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 16:05:31,288 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 16:05:31,302 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 16:05:31,376 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 16:05:31,384 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 16:05:31,442 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 16:05:41,644 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:05:45,737 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:05:47,705 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:05:47,716 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:05:47,769 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 16:05:47,779 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:05:47,846 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 16:05:47,856 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:05:47,909 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:05:47,921 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:05:47,996 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:05:48,006 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:05:48,056 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:05:48,065 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:05:48,106 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:05:48,115 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:05:48,162 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:05:48,170 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:05:48,211 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:05:48,220 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:05:48,291 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:05:48,300 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:05:48,349 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:05:48,357 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:05:48,396 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:05:48,404 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:05:48,513 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:05:55,247 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:05:59,347 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:06:01,282 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:06:01,295 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:06:01,352 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 16:06:01,362 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:06:01,427 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:06:01,437 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:06:01,486 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:06:01,498 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:06:01,571 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:06:01,580 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:06:01,630 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:06:01,638 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:06:01,680 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:06:01,689 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:06:01,729 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:06:01,740 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:06:01,782 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:06:01,791 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:06:01,861 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:06:01,869 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:06:01,915 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:06:01,924 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:06:01,961 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:06:01,972 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:06:01,975 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:06:16,158 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:06:20,277 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:06:22,253 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:06:22,267 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:06:22,326 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 16:06:22,336 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:06:22,401 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:06:22,410 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:06:22,459 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:06:22,470 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:06:22,541 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:06:22,550 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:06:22,605 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:06:22,613 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:06:22,655 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:06:22,664 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:06:22,705 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:06:22,714 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:06:22,755 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:06:22,764 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:06:22,838 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:06:22,846 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:06:22,892 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:06:22,900 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:06:22,941 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:06:22,950 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:06:22,956 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:06:37,133 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:06:41,200 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:06:43,163 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:06:43,183 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 16:06:43,256 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 16:06:45,421 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:06:45,427 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 16:06:45,430 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 16:09:47,573 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 16:09:49,472 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:09:49,483 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:09:49,538 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:09:49,550 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:09:49,589 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:09:49,599 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:09:49,684 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:09:49,685 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:09:49,789 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:09:49,802 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:09:49,894 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:09:54,911 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:09:54,914 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:09:55,064 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 16:09:55,080 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 16:09:55,243 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 16:09:55,257 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 16:09:55,308 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 16:09:55,320 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:09:55,435 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:09:58,452 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 16:09:58,460 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 16:09:58,556 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:09:58,563 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:09:58,680 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:09:58,695 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 16:09:58,701 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 16:09:58,714 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 16:09:58,718 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 16:10:00,729 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 16:10:00,889 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 16:10:04,906 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:10:11,171 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:10:13,157 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:10:13,173 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:10:13,243 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:10:13,254 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:10:13,300 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:10:13,307 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:10:13,395 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:10:19,869 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:10:23,947 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:10:25,867 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:10:25,886 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:10:25,958 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 16:10:25,969 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:10:26,018 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:10:26,028 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:10:26,115 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:10:32,677 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:10:36,792 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:10:38,727 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:10:38,740 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:10:38,809 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:10:38,821 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:10:38,876 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 16:10:38,885 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:10:38,973 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:10:45,489 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:10:49,555 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:10:53,574 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 16:10:53,584 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 16:10:53,613 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 16:10:58,622 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 16:10:58,633 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 16:11:00,803 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:11:04,870 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:11:08,745 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 16:11:08,757 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 16:11:08,806 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 16:11:11,814 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 16:11:11,828 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 16:11:11,903 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 16:11:11,913 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 16:11:11,972 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 16:11:22,155 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:11:26,242 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:11:28,210 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:11:28,221 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:11:28,276 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 16:11:28,288 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:11:28,346 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 16:11:28,356 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:11:28,406 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:11:28,417 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:11:28,491 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:11:28,502 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:11:28,554 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:11:28,562 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:11:28,603 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:11:28,612 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:11:28,652 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:11:28,663 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:11:28,705 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:11:28,712 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:11:28,786 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:11:28,793 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:11:28,839 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:11:28,848 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:11:28,890 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:11:28,902 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:11:29,007 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:11:35,808 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:11:39,906 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:11:41,949 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:11:41,961 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:11:42,017 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 16:11:42,027 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:11:42,090 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:11:42,102 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:11:42,147 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:11:42,161 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:11:42,231 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:11:42,243 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:11:42,291 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:11:42,299 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:11:42,338 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:11:42,347 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:11:42,386 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:11:42,398 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:11:42,440 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:11:42,449 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:11:42,520 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:11:42,528 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:11:42,576 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:11:42,583 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:11:42,620 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:11:42,630 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:11:42,633 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:11:56,833 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:12:00,933 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:12:02,883 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:12:02,898 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:12:02,956 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 16:12:02,967 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:12:03,032 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:12:03,042 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:12:03,085 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:12:03,097 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:12:03,174 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:12:03,186 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:12:03,236 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:12:03,244 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:12:03,287 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:12:03,296 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:12:03,340 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:12:03,352 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:12:03,396 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:12:03,406 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:12:03,476 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:12:03,484 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:12:03,530 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:12:03,537 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:12:03,574 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:12:03,585 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:12:03,588 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:12:17,802 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:12:21,900 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:12:23,852 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:12:23,875 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 16:12:23,967 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 16:12:26,108 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:12:26,109 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 16:12:26,110 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 16:22:39,497 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 16:22:42,244 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:22:42,264 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:22:42,355 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:22:42,372 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:22:42,426 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:22:42,437 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:22:42,609 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:22:42,611 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:22:42,809 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:22:42,831 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:22:42,993 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:22:44,015 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:22:44,020 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:22:44,292 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 16:22:44,374 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 16:22:44,706 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 16:22:44,729 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 16:22:44,793 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 16:22:44,820 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:22:45,142 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:22:47,172 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 16:22:47,184 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 16:22:47,383 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:22:47,391 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:22:47,593 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:22:47,614 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 16:22:47,629 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 16:22:47,649 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 16:22:47,654 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 16:22:49,669 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 16:22:49,938 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 16:22:50,972 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:22:57,509 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:23:00,928 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:23:00,950 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:23:01,087 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:23:01,103 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:23:01,178 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:23:01,191 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:23:01,382 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:23:04,705 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:23:08,804 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:23:11,951 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:23:11,984 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:23:12,155 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 16:23:12,186 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:23:12,259 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:23:12,272 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:23:12,492 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:23:17,663 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:23:21,774 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:23:24,791 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:23:24,815 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:23:24,891 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:23:24,922 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:23:25,030 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 16:23:25,046 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:23:25,202 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:23:28,606 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:23:32,724 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:23:38,089 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 16:23:38,105 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 16:23:38,129 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 16:23:40,139 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 16:23:40,151 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 16:23:42,546 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:23:46,654 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:23:51,456 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 16:23:51,472 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 16:23:51,510 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 16:23:54,516 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 16:23:54,533 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 16:23:54,610 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 16:23:54,627 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 16:23:54,717 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 16:23:59,129 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:24:03,235 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:24:05,880 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:24:05,892 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:24:05,945 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 16:24:05,958 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:24:06,042 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 16:24:06,056 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:24:06,106 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:24:06,122 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:24:06,228 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:24:06,252 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:24:06,325 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:24:06,339 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:24:06,398 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:24:06,410 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:24:06,463 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:24:06,474 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:24:06,525 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:24:06,536 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:24:06,619 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:24:06,628 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:24:06,683 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:24:06,691 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:24:06,742 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:24:06,752 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:24:06,933 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:24:12,556 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:24:16,631 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:24:19,266 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:24:19,281 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:24:19,356 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 16:24:19,372 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:24:19,441 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:24:19,451 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:24:19,512 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:24:19,531 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:24:19,644 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:24:19,653 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:24:19,713 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:24:19,723 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:24:19,778 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:24:19,789 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:24:19,838 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:24:19,849 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:24:19,903 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:24:19,912 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:24:20,003 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:24:20,012 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:24:20,068 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:24:20,078 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:24:20,131 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:24:20,147 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:24:20,152 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:24:34,552 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:24:38,647 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:24:41,350 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:24:41,361 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:24:41,415 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 16:24:41,431 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:24:41,515 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:24:41,525 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:24:41,571 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:24:41,588 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:24:41,701 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:24:41,714 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:24:41,778 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:24:41,789 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:24:41,848 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:24:41,860 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:24:41,914 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:24:41,927 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:24:41,979 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:24:41,987 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:24:42,070 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:24:42,079 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:24:42,135 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:24:42,151 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:24:42,200 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:24:42,211 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:24:42,214 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:24:58,198 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:25:02,307 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:25:05,307 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:25:05,347 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 16:25:05,430 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 16:25:07,837 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:25:07,839 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 16:25:07,840 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 16:31:20,460 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 16:31:22,904 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:31:22,927 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:31:22,998 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:31:23,018 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:31:23,099 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:31:23,112 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:31:23,320 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:31:23,322 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:31:23,482 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:31:23,502 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:31:23,714 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:31:24,731 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:31:24,734 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:31:24,981 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 16:31:25,015 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 16:31:25,209 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 16:31:25,229 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 16:31:25,301 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 16:31:25,315 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:31:25,488 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:31:27,505 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 16:31:27,517 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 16:31:27,748 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 16:31:27,762 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 16:31:27,994 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 16:31:28,031 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 16:31:28,040 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 16:31:28,073 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 16:31:28,079 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 16:31:30,091 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 16:31:30,372 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 16:31:31,401 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:31:39,369 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:31:42,480 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:31:42,497 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:31:42,619 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:31:42,650 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:31:42,728 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:31:42,739 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:31:42,895 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:31:46,350 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:31:50,438 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:31:53,145 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:31:53,162 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:31:53,299 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 16:31:53,309 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:31:53,371 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:31:53,382 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:31:53,494 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:31:56,870 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:32:00,948 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:32:03,530 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 16:32:03,557 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:32:03,693 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 16:32:03,704 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:32:03,791 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 16:32:03,801 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 16:32:03,960 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 16:32:07,364 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:32:11,449 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:32:15,945 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 16:32:15,956 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 16:32:15,980 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 16:32:17,991 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 16:32:18,001 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 16:32:21,980 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:32:26,073 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:32:30,429 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 16:32:30,442 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 16:32:30,474 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 16:32:33,484 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 16:32:33,505 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 16:32:33,604 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 16:32:33,618 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 16:32:33,724 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 16:32:38,193 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:32:42,299 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:32:45,054 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:32:45,104 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:32:45,169 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 16:32:45,181 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:32:45,245 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 16:32:45,254 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:32:45,330 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:32:45,369 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:32:45,461 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:32:45,476 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:32:45,532 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:32:45,543 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:32:45,609 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:32:45,622 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:32:45,676 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:32:45,684 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:32:45,731 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:32:45,741 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:32:45,823 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:32:45,833 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:32:45,893 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:32:45,902 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:32:45,955 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:32:45,963 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:32:46,207 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:32:53,397 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:32:57,490 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:33:00,137 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:33:00,162 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:33:00,234 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 16:33:00,253 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:33:00,337 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:33:00,348 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:33:00,398 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:33:00,418 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:33:00,534 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:33:00,551 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:33:00,628 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:33:00,638 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:33:00,693 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:33:00,702 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:33:00,758 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:33:00,769 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:33:00,822 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:33:00,836 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:33:00,918 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:33:00,930 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:33:00,992 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:33:01,000 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:33:01,058 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:33:01,073 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:33:01,078 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:33:17,135 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:33:21,242 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:33:24,081 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:33:24,102 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 16:33:24,194 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 16:33:24,211 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 16:33:24,284 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 16:33:24,295 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 16:33:24,343 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 16:33:24,361 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 16:33:24,479 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 16:33:24,490 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 16:33:24,554 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 16:33:24,568 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 16:33:24,618 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 16:33:24,630 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 16:33:24,688 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 16:33:24,698 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 16:33:24,751 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 16:33:24,762 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 16:33:24,843 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 16:33:24,851 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 16:33:24,915 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 16:33:24,924 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 16:33:24,979 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 16:33:24,993 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 16:33:24,997 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 16:33:41,019 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:33:45,119 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 16:33:47,748 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 16:33:47,766 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 16:33:47,846 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 16:33:50,266 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 16:33:50,268 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 16:33:50,269 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:00:41,223 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:00:41,224 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:00:44,442 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:00:44,456 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:00:44,565 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:00:44,576 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:00:44,637 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:00:44,646 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:00:44,848 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:00:48,367 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:00:52,458 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:00:55,627 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:00:55,642 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:00:55,740 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:00:55,753 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:00:55,830 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:00:55,842 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:00:55,979 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:00:59,508 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:01:03,588 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:01:06,271 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:01:06,284 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:01:06,402 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:01:06,414 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:01:06,497 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:01:06,513 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:01:06,662 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:01:10,106 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:01:10,107 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:01:10,108 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:04:31,728 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:04:31,728 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:04:34,763 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:04:34,779 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:04:34,904 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:04:34,917 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:04:34,963 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:04:34,972 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:04:35,192 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:04:38,734 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:04:42,822 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:04:45,650 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:04:45,662 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:04:45,788 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:04:45,802 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:04:45,881 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:04:45,893 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:04:46,022 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:04:49,474 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:04:53,576 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:04:56,273 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:04:56,287 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:04:56,460 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:04:56,478 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:04:56,536 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:04:56,550 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:04:56,677 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:05:00,137 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:05:00,139 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:05:00,141 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:08:21,809 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:08:21,811 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:08:24,775 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:08:24,796 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:08:24,956 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:08:24,974 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:08:25,047 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:08:25,059 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:08:25,221 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:08:28,690 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:08:32,783 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:08:35,509 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:08:35,525 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:08:35,647 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:08:35,672 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:08:35,750 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:08:35,767 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:08:35,986 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:08:39,528 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:08:43,627 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:08:47,030 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:08:47,042 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:08:47,142 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:08:47,159 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:08:47,222 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:08:47,231 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:08:47,411 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:08:51,177 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:08:51,180 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:08:51,181 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:12:14,710 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:12:14,711 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:12:17,807 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:12:17,821 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:12:17,920 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:12:17,934 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:12:18,006 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:12:18,018 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:12:18,193 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:12:20,745 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:12:24,845 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:12:27,574 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:12:27,600 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:12:27,733 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:12:27,748 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:12:27,813 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:12:27,826 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:12:27,976 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:12:30,467 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:12:34,547 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:12:37,213 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:12:37,228 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:12:37,336 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:12:37,379 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:12:37,457 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:12:37,470 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:12:37,636 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:12:40,089 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:12:40,091 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:12:40,092 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:15:33,053 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:15:33,054 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:15:36,698 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:15:36,738 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:15:36,937 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:15:36,958 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:15:37,037 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:15:37,053 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:15:37,280 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:15:39,817 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:15:43,924 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:15:47,470 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:15:47,481 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:15:47,589 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:15:47,607 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:15:47,669 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:15:47,680 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:15:47,833 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:15:50,287 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:15:54,377 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:15:57,724 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:15:57,741 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:15:57,831 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:15:57,847 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:15:57,911 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:15:57,921 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:15:58,144 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:16:00,574 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:16:00,575 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:16:00,576 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:19:39,089 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:19:39,090 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:19:42,110 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:19:42,122 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:19:42,273 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:19:42,294 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:19:42,369 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:19:42,379 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:19:42,580 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:19:45,050 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:19:49,160 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:19:51,952 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:19:51,976 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:19:52,083 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:19:52,096 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:19:52,162 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:19:52,178 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:19:52,334 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:19:54,782 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:19:58,882 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:20:01,896 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:20:01,913 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:20:02,030 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:20:02,043 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:20:02,103 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:20:02,118 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:20:02,265 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:20:04,810 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:20:04,810 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:20:04,811 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:30:22,504 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:30:22,505 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:30:25,098 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:30:25,111 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:30:25,182 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:30:25,201 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:30:25,245 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:30:25,256 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:30:25,367 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:30:27,612 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:30:31,696 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:30:33,774 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:30:33,789 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:30:33,889 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:30:33,900 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:30:33,953 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:30:33,962 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:30:34,058 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:30:36,339 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:30:40,437 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:30:42,602 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:30:42,624 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:30:42,698 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:30:42,712 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:30:42,769 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:30:42,778 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:30:42,872 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:30:45,102 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:30:45,104 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:30:45,105 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:32:36,030 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:32:36,031 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:32:39,264 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:32:39,294 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:32:39,359 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:32:39,384 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:32:39,452 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:32:39,467 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:32:39,669 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:32:42,309 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:32:46,424 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:32:49,099 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:32:49,117 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:32:49,242 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:32:49,256 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:32:49,304 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:32:49,316 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:32:49,512 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:32:51,949 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:32:56,012 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:32:58,767 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:32:58,791 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:32:58,864 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:32:58,900 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:32:58,964 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:32:58,977 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:32:59,124 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:33:01,599 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:33:01,600 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:33:01,601 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:36:08,826 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:36:08,827 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:36:11,836 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:36:11,880 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:36:12,020 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:36:12,033 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:36:12,107 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:36:12,119 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:36:12,304 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:36:14,813 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:36:18,916 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:36:21,915 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:36:21,932 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:36:22,001 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:36:22,024 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:36:22,068 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:36:22,080 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:36:22,238 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:36:24,617 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:36:28,703 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:36:31,704 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:36:31,738 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:36:31,828 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:36:31,842 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:36:31,901 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:36:31,912 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:36:32,097 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:36:34,559 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:36:34,560 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:36:34,561 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:38:01,080 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:38:01,081 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:38:03,302 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:38:03,315 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:38:03,394 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:38:03,404 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:38:03,454 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:38:03,464 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:38:03,573 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:38:05,855 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:38:09,956 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:38:12,110 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:38:12,131 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:38:12,193 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:38:12,209 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:38:12,262 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:38:12,272 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:38:12,356 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:38:14,601 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:38:18,699 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:38:20,718 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:38:20,731 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:38:20,807 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:38:20,817 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:38:20,868 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:38:20,877 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:38:20,993 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:38:23,238 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:38:23,240 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:38:23,241 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:40:04,844 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:40:04,845 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:40:07,057 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:40:07,069 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:40:07,123 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:40:07,150 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:40:07,208 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:40:07,218 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:40:07,320 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:40:09,544 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:40:13,646 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:40:15,802 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:40:15,815 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:40:15,896 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:40:15,910 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:40:15,961 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:40:15,971 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:40:16,074 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:40:18,322 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:40:22,406 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:40:24,554 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:40:24,567 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:40:24,654 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:40:24,672 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:40:24,728 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:40:24,738 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:40:24,856 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:40:27,077 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:40:27,079 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:40:27,079 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功
+INFO - 2023-12-25 17:47:32,695 - connectMysql.py:24 -[connectMysql:__init__] - 成功连接到数据库，数据ip：localhost
+INFO - 2023-12-25 17:47:35,114 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:47:35,138 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:47:35,219 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:47:35,236 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:47:35,328 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:47:35,343 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:47:35,477 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:47:35,477 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:47:35,654 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 17:47:35,680 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 17:47:35,808 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 17:47:36,839 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:47:36,842 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:47:37,038 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/search.php
+INFO - 2023-12-25 17:47:37,056 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 高级搜索
+INFO - 2023-12-25 17:47:37,327 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '高级搜索')
+INFO - 2023-12-25 17:47:37,362 - basePage.py:136 -[basePage:location_element] - 找到元素：name = keywords
+INFO - 2023-12-25 17:47:37,412 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'keywords')，输入的内容为：二锅头
+INFO - 2023-12-25 17:47:37,423 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 17:47:37,623 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 17:47:39,643 - basePage.py:136 -[basePage:location_element] - 找到元素：link text = 购买
+INFO - 2023-12-25 17:47:39,652 - basePage.py:171 -[basePage:click] - 元素被点击：('link text', '购买')
+INFO - 2023-12-25 17:47:39,859 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/flow.php
+INFO - 2023-12-25 17:47:39,877 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@alt="checkout"]
+INFO - 2023-12-25 17:47:40,109 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@alt="checkout"]')
+INFO - 2023-12-25 17:47:40,141 - basePage.py:136 -[basePage:location_element] - 找到元素：name = shipping
+INFO - 2023-12-25 17:47:40,155 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'shipping')
+INFO - 2023-12-25 17:47:40,174 - basePage.py:136 -[basePage:location_element] - 找到元素：name = payment
+INFO - 2023-12-25 17:47:40,190 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'payment')
+INFO - 2023-12-25 17:47:42,202 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //input[@type="image"]
+INFO - 2023-12-25 17:47:42,529 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//input[@type="image"]')
+INFO - 2023-12-25 17:47:43,561 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:47:51,668 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:47:54,520 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:47:54,535 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:47:54,635 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:47:54,653 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:47:54,704 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:47:54,714 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:47:54,909 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:47:57,402 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:48:01,489 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:48:04,129 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:48:04,150 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:48:04,309 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123456
+INFO - 2023-12-25 17:48:04,327 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:48:04,402 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:48:04,415 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:48:04,579 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:48:07,060 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:48:11,148 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:48:13,895 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php
+INFO - 2023-12-25 17:48:13,911 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:48:14,016 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin123
+INFO - 2023-12-25 17:48:14,029 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:48:14,090 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456789
+INFO - 2023-12-25 17:48:14,104 - basePage.py:136 -[basePage:location_element] - 找到元素：name = submit
+INFO - 2023-12-25 17:48:14,254 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'submit')
+INFO - 2023-12-25 17:48:16,734 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:48:20,808 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:48:25,656 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/file.xhtml
+INFO - 2023-12-25 17:48:25,671 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89_input"]
+INFO - 2023-12-25 17:48:25,756 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('xpath', '//*[@id="j_idt88:j_idt89_input"]')，输入的内容为：C:\Users\yaozm\Desktop\文件上传.txt
+INFO - 2023-12-25 17:48:27,766 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:j_idt89"]/span[2]
+INFO - 2023-12-25 17:48:27,777 - basePage.py:71 -[basePage:get_tag_text] - 获取标签文本内容：文件上传.txt 5 Bytes
+INFO - 2023-12-25 17:48:30,193 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:48:34,307 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:48:38,755 - basePage.py:60 -[basePage:open_url] - 打开页面：https://www.leafground.com/window.xhtml
+INFO - 2023-12-25 17:48:38,766 - basePage.py:136 -[basePage:location_element] - 找到元素：xpath = //*[@id="j_idt88:new"]/span
+INFO - 2023-12-25 17:48:38,798 - basePage.py:171 -[basePage:click] - 元素被点击：('xpath', '//*[@id="j_idt88:new"]/span')
+INFO - 2023-12-25 17:48:41,805 - basePage.py:102 -[basePage:switch_to_new_tab] - 成功切换到新标签页
+INFO - 2023-12-25 17:48:41,824 - basePage.py:136 -[basePage:location_element] - 找到元素：id = email
+INFO - 2023-12-25 17:48:41,918 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'email')，输入的内容为：673889@163.com
+INFO - 2023-12-25 17:48:41,930 - basePage.py:136 -[basePage:location_element] - 找到元素：id = message
+INFO - 2023-12-25 17:48:42,058 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'message')，输入的内容为：selenium窗口句柄切换
+INFO - 2023-12-25 17:48:46,537 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:48:50,604 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:48:53,243 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 17:48:53,262 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:48:53,338 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin02
+INFO - 2023-12-25 17:48:53,351 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 17:48:53,430 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：9116@163.com
+INFO - 2023-12-25 17:48:53,446 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:48:53,507 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:48:53,526 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 17:48:53,632 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 17:48:53,645 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 17:48:53,705 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 17:48:53,715 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 17:48:53,794 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 17:48:53,807 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 17:48:53,863 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 17:48:53,874 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 17:48:53,924 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 17:48:53,937 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 17:48:54,020 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 17:48:54,027 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 17:48:54,086 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 17:48:54,100 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 17:48:54,169 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 17:48:54,182 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 17:48:54,387 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 17:49:00,090 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:49:04,191 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:49:07,028 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 17:49:07,046 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:49:07,103 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin770
+INFO - 2023-12-25 17:49:07,119 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 17:49:07,191 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 17:49:07,209 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:49:07,267 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:49:07,288 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 17:49:07,420 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 17:49:07,437 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 17:49:07,495 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 17:49:07,504 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 17:49:07,553 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 17:49:07,565 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 17:49:07,629 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 17:49:07,641 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 17:49:07,692 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 17:49:07,701 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 17:49:07,787 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 17:49:07,796 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 17:49:07,849 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 17:49:07,860 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 17:49:07,923 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 17:49:07,938 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 17:49:07,948 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 17:49:22,414 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:49:26,501 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:49:29,260 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 17:49:29,278 - basePage.py:136 -[basePage:location_element] - 找到元素：name = username
+INFO - 2023-12-25 17:49:29,350 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'username')，输入的内容为：admin762
+INFO - 2023-12-25 17:49:29,364 - basePage.py:136 -[basePage:location_element] - 找到元素：name = email
+INFO - 2023-12-25 17:49:29,443 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'email')，输入的内容为：1341516@163.com
+INFO - 2023-12-25 17:49:29,458 - basePage.py:136 -[basePage:location_element] - 找到元素：name = password
+INFO - 2023-12-25 17:49:29,513 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'password')，输入的内容为：123456
+INFO - 2023-12-25 17:49:29,533 - basePage.py:136 -[basePage:location_element] - 找到元素：id = conform_password
+INFO - 2023-12-25 17:49:29,647 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('id', 'conform_password')，输入的内容为：123456
+INFO - 2023-12-25 17:49:29,662 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field1
+INFO - 2023-12-25 17:49:29,721 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field1')，输入的内容为：2367@msn.com
+INFO - 2023-12-25 17:49:29,729 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field2
+INFO - 2023-12-25 17:49:29,789 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field2')，输入的内容为：8899281
+INFO - 2023-12-25 17:49:29,802 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field3
+INFO - 2023-12-25 17:49:29,855 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field3')，输入的内容为：3726781
+INFO - 2023-12-25 17:49:29,865 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field4
+INFO - 2023-12-25 17:49:29,920 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field4')，输入的内容为：3737889
+INFO - 2023-12-25 17:49:29,930 - basePage.py:136 -[basePage:location_element] - 找到元素：name = sel_question
+INFO - 2023-12-25 17:49:30,018 - basePage.py:201 -[basePage:selects] - 选择下拉菜单第3条数据
+INFO - 2023-12-25 17:49:30,029 - basePage.py:136 -[basePage:location_element] - 找到元素：name = extend_field5
+INFO - 2023-12-25 17:49:30,086 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'extend_field5')，输入的内容为：13990901223
+INFO - 2023-12-25 17:49:30,096 - basePage.py:136 -[basePage:location_element] - 找到元素：name = passwd_answer
+INFO - 2023-12-25 17:49:30,154 - basePage.py:186 -[basePage:send_keys] - 元素被输入内容：('name', 'passwd_answer')，输入的内容为：注册测试
+INFO - 2023-12-25 17:49:30,173 - basePage.py:136 -[basePage:location_element] - 找到元素：name = Submit
+INFO - 2023-12-25 17:49:30,180 - basePage.py:171 -[basePage:click] - 元素被点击：('name', 'Submit')
+INFO - 2023-12-25 17:49:44,665 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:49:48,749 - conftest.py:11 -[conftest:log_outputs] - -------测试用例开始执行-------
+INFO - 2023-12-25 17:49:51,415 - basePage.py:64 -[basePage:open_url] - 打开页面：http://localhost/ecshop/user.php?act=register
+INFO - 2023-12-25 17:49:51,444 - basePage.py:136 -[basePage:location_element] - 找到元素：partial link text = 我要登录
+INFO - 2023-12-25 17:49:51,541 - basePage.py:171 -[basePage:click] - 元素被点击：('partial link text', '我要登录')
+INFO - 2023-12-25 17:49:53,941 - conftest.py:13 -[conftest:log_outputs] - -------测试用例执行完毕-------
+INFO - 2023-12-25 17:49:53,943 - conftest.py:12 -[conftest:data_cleaning] - 正在清理测试数据...
+INFO - 2023-12-25 17:49:53,944 - connectMysql.py:55 -[connectMysql:delete] - 数据库数据删除成功

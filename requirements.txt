@@ -1,0 +1,12 @@
+allure_python_commons
+colorlog
+openpyxl
+Pillow
+Pillow
+PyMySQL
+pytesseract
+pytest==6.2.4
+PyYAML==6.0
+PyYAML==6.0.1
+Requests==2.31.0
+selenium==4.16.0
